@@ -1,0 +1,4 @@
+java is a object oriented programing language.
+java is high level programing language.
+In java oops and jdbc are important concepts.
+java is used to create dynamic web pages.
